@@ -1,2 +1,2 @@
-# bro-scripts
-Bro Network Security Monitor Scripts
+# zeek-scripts
+Zeek Network Security Monitor Scripts
